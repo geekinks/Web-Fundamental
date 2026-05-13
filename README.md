@@ -1,6 +1,6 @@
-# Web Development Mentorship Crash Course
+# Web Development Fundamentals Course
 
-Welcome to the **Web Development Mentorship Crash Course** repository! This comprehensive six-week program is designed to take complete beginners through the fundamentals of web development, covering everything from the basics of how the web works to deploying your own web applications. Whether you are new to programming or looking to brush up on your web development skills, this course is for you.
+Welcome to the **Web Development fundamental Course** repository! This comprehensive six-week program is designed to take complete beginners through the fundamentals of web development, covering everything from the basics of how the web works to deploying your own web applications. Whether you are new to programming or looking to brush up on your web development skills, this course is for you.
 
 ## Course Overview
 
